@@ -1,0 +1,9 @@
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\bin\Debug\netcoreapp2.1\Student_Management_System.DTO.deps.json
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\bin\Debug\netcoreapp2.1\Student_Management_System.DTO.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\bin\Debug\netcoreapp2.1\Student_Management_System.DTO.pdb
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\obj\Debug\netcoreapp2.1\Student_Management_System.DTO.csprojAssemblyReference.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\obj\Debug\netcoreapp2.1\Student_Management_System.DTO.csproj.CoreCompileInputs.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\obj\Debug\netcoreapp2.1\Student_Management_System.DTO.AssemblyInfoInputs.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\obj\Debug\netcoreapp2.1\Student_Management_System.DTO.AssemblyInfo.cs
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\obj\Debug\netcoreapp2.1\Student_Management_System.DTO.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DTO\obj\Debug\netcoreapp2.1\Student_Management_System.DTO.pdb

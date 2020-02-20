@@ -1,0 +1,14 @@
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\bin\Debug\netcoreapp2.1\Student_Management_System.BLL.deps.json
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\bin\Debug\netcoreapp2.1\Student_Management_System.BLL.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\bin\Debug\netcoreapp2.1\Student_Management_System.BLL.pdb
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\bin\Debug\netcoreapp2.1\Student_Management_System.DAL.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\bin\Debug\netcoreapp2.1\Student_Management_System.DTO.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\bin\Debug\netcoreapp2.1\Student_Management_System.DAL.pdb
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\bin\Debug\netcoreapp2.1\Student_Management_System.DTO.pdb
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\obj\Debug\netcoreapp2.1\Student_Management_System.BLL.csprojAssemblyReference.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\obj\Debug\netcoreapp2.1\Student_Management_System.BLL.csproj.CoreCompileInputs.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\obj\Debug\netcoreapp2.1\Student_Management_System.BLL.AssemblyInfoInputs.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\obj\Debug\netcoreapp2.1\Student_Management_System.BLL.AssemblyInfo.cs
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\obj\Debug\netcoreapp2.1\Student_Management_System.BLL.csproj.CopyComplete
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\obj\Debug\netcoreapp2.1\Student_Management_System.BLL.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.BLL\obj\Debug\netcoreapp2.1\Student_Management_System.BLL.pdb

@@ -1,0 +1,12 @@
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\bin\Debug\netcoreapp2.1\Student_Management_System.DAL.deps.json
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\bin\Debug\netcoreapp2.1\Student_Management_System.DAL.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\obj\Debug\netcoreapp2.1\Student_Management_System.DAL.csprojAssemblyReference.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\obj\Debug\netcoreapp2.1\Student_Management_System.DAL.csproj.CoreCompileInputs.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\obj\Debug\netcoreapp2.1\Student_Management_System.DAL.AssemblyInfoInputs.cache
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\obj\Debug\netcoreapp2.1\Student_Management_System.DAL.AssemblyInfo.cs
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\bin\Debug\netcoreapp2.1\Student_Management_System.DAL.pdb
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\bin\Debug\netcoreapp2.1\Student_Management_System.DTO.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\bin\Debug\netcoreapp2.1\Student_Management_System.DTO.pdb
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\obj\Debug\netcoreapp2.1\Student_Management_System.DAL.csproj.CopyComplete
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\obj\Debug\netcoreapp2.1\Student_Management_System.DAL.dll
+C:\Users\poorvi.chonkar\Source\Repos\Student_Management_System\Student_Management_System.DAL\obj\Debug\netcoreapp2.1\Student_Management_System.DAL.pdb
